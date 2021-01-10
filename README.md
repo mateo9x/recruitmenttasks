@@ -1,17 +1,17 @@
 # recruitmenttasks
 
-*Zadanie 1
+##Zadanie 1
 Napisz program, który wypisuje liczby od 1 do 100. Ale dla wielokrotności trójki wyświetl "Fizz" zamiast
 liczby oraz dla wielokrotności piątki wyświetl "Buzz". Dla liczb będących wielokrotnościami trójki oraz
 piątki wyświetl "FizzBuzz".
-*Zadanie 2
+##Zadanie 2
 Napisz funkcję sprawdzającą poprawność daty w latach 2001-2099 (daty spoza tego okresu uznaj za
 niepoprawne).
 Wejście – trzy parametry liczbowe (dzień, miesiąc, rok).
 Wyjście – parametr logiczny (true – data poprawna, false – data niepoprawna) .
 Proszę zaimplementować własny algorytm kontroli – nie wolno korzystać z gotowych rozwiązań, np.
 LocalDate, Calendar, itp.
-*Zadanie 3
+##Zadanie 3
 Napisz program symulujący grę w kości. W grze bierze udział dwóch graczy o nazwach: pierwszy, drugi.
 Każdemu graczowi przypada 5 tur. Tury graczy odbywają się naprzemiennie tzn. grę zaczyna gracz
 pierwszy, po jego turze następuje tura gracza drugiego, następna jest tura gracza pierwszego itd. Grę
